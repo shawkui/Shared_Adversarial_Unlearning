@@ -67,12 +67,11 @@ python defense/sau.py --result_file badnet_demo
 如果您觉得我们的工作有价值，并在您的研究中使用了它，请使用以下 BibTeX 条目引用我们的论文：
 
 ```bibtex
-@inproceedings{wei2023shared,
-title={Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples},
-author={韦少岿 and 张明达 and 朱洪远 and 吴宝元},
-booktitle={第三十七届神经信息处理系统会议},
-year={2023},
-url={https://openreview.net/forum?id=zqOcW3R9rd}
+@inproceedings{wei2024mitigating,
+  title={Mitigating Backdoor Attack by Injecting Proactive Defensive Backdoor},
+  author={Wei, Shaokui and Zha, Hongyuan and Wu, Baoyuan},
+  booktitle={Thirty-eighth Conference on Neural Information Processing Systems},
+  year={2024}
 }
 ```
 
