@@ -6,6 +6,12 @@
 
 ---
 
+## 📢 News
+
+**Updated 2024-10-11**: The SAU method has now been integrated into [BackdoorBench](https://github.com/SCLBD/BackdoorBench). Users can directly obtain and utilize our method within the platform for testing defenses against backdoor attacks.
+
+---
+
 ## 📝 Introduction
 
 Welcome to the official repository for the NeurIPS 2023 paper titled "Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples". This project introduces a novel defense mechanism against malicious backdoor attacks in machine learning models.
