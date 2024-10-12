@@ -32,8 +32,8 @@ To start working with this project:
 
 1. **Clone Repository**:
     ```bash
-    git clone https://github.com/shawkui/Proactive_Defensive_Backdoor.git
-    cd Proactive_Defensive_Backdoor
+    git clone https://github.com/shawkui/Shared_Adversarial_Unlearning.git
+    cd Shared_Adversarial_Unlearning
     ```
 
 2. **Install Dependencies**:
