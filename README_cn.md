@@ -33,8 +33,8 @@
 
 1. **克隆仓库**：
     ```bash
-    git clone https://github.com/shawkui/Proactive_Defensive_Backdoor.git
-    cd Proactive_Defensive_Backdoor
+    git clone https://github.com/shawkui/Shared_Adversarial_Unlearning.git
+    cd Shared_Adversarial_Unlearning
     ```
 
 2. **安装依赖**：
