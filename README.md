@@ -38,7 +38,7 @@ To start working with this project:
 
 2. **Install Dependencies**:
     ```bash
-    pip install -r requirements.txt
+    bash sh/install.sh
     ```
 
 ---
